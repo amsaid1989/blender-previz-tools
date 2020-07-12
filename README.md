@@ -2,7 +2,7 @@
 
 This is a collection of python scripts for Blender that I have been using lately while working on the previz for a short animated film.
 
-To make things clear, this is not an addon or anything. It has the potential to be an addon, but I currently don't have enough time to develop it into one. It is not even going to just work out of the box. There is one or two things that you might need to be aware of to use these scripts.
+To make things clear, this is not an addon or anything. It has the potential to be an addon, but I currently don't have enough time to develop it into one. It is not even going to just work out of the box. There are a few things that you might need to be aware of to use these scripts.
 
 However, I still would like to share these scripts because I think they provide an insight into one possible workflow for creating previz in Blender. They can also serve as a good starting point for anyone who want to use them.
 
